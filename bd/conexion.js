@@ -8,12 +8,16 @@ admin.initializeApp({
 const bd = admin.firestore();
 const usuarios = bd.collection("belen");
 const productos = bd.collection("productos");
+const ventas = bd.collection("ventas");
 
 module.exports = {
     usuarios,
-    productos
+    productos,
+    ventas
 }
 
 //console.log(usuarios);
 
 //console.log(productos);
+
+//console.log(ventas);

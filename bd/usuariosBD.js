@@ -73,11 +73,11 @@ module.exports={
 //borrarUsuario("2"); Crendenciales Incorrectas
 //borrarUsuario("U5oeDuW2rLZKED73is"); No existente
 
-//data = {
-//    nombre:"Belen",
-//    usuario:"Belensita",
-//    password:"abc"
-//}
+/*data = {
+    nombre:"Belen",
+    usuario:"Belensita",
+    password:"abc"
+}*/
 
 //nuevoUsuario(data);
 
